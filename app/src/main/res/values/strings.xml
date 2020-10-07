@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="edit_profil">Edit Profil</string>
+    <string name="hapus_profil">Hapus Profil</string>
+    <string name="logout">Logout</string>
+    <string name="simpan">Simpan</string>
+    <string name="alamat_tinggal">Alamat Tinggal</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+</resources>
